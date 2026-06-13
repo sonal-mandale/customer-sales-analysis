@@ -20,9 +20,8 @@ This project analyzes customer sales data to identify purchasing patterns, high-
 
 ## Repository Files
 
-* `Customer_Segmentation_Presentation.pptx` – Presentation<img width="2074" height="1065" alt="Dashboard" src="https://github.com/user-attachments/assets/44d59bc8-ffc2-429c-a7b3-6f8d29bda591" />
-
-* `Dashboard.png` – Power BI dashboard
+* `Customer_Segmentation_Presentation.pptx` – Presentation
+* `Dashboard.png` – Power BI dashboard<img width="2074" height="1065" alt="Dashboard" src="https://github.com/user-attachments/assets/44d59bc8-ffc2-429c-a7b3-6f8d29bda591" />
 * `README.md` – Project documentation
 
 ## Author
